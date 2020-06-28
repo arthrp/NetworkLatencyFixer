@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NetworkLatencyFixer": {
+      "commandName": "Project",
+      "commandLineArgs": "-l"
+    }
+  }
+}
